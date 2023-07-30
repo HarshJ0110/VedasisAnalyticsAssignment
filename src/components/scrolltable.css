@@ -1,0 +1,6 @@
+@media screen and (max-width: 765px) {
+    .scroll_bar{
+        margin-top: -12%;
+        overflow: auto; 
+    }
+}
