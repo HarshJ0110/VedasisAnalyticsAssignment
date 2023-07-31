@@ -1,17 +1,3 @@
-// import React, { useState, useEffect } from 'react';
-// import { Table, Pagination } from 'react-bootstrap';
-// import "./table_.css"
-
-// const Table_ = () => {
-
-//   return (
-//     <div className='table1'>
-
-//     </div>
-// )};
-
-// export default Table_;
-
 import React, { useState, useEffect, useContext } from 'react';
 import './tablecomponent.css';
 import DashContext from '../states.js/DashContext';
